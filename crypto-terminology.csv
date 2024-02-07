@@ -1,0 +1,12 @@
+,
+Date,Indicates when the data was recorded.
+Currency,Specifies the cryptocurrency(name of cryptocurrency).
+Total Volume,"Indicates the trading volume, which represents the total quantity of the cryptocurrency traded during the day."
+Market Cap,Market Capitalization column represents the total market value of the cryptocurrency. It is calculated by multiplying the current price (Close) by the total circulating supply of the cryptocurrency.
+Price Lag,Represent the price of Bitcoin from the previous day.
+Price Rolling, The average price over the past days (in our data 3 and 7 days period).
+Price Rolling Standard Deviation(std),The rolling standard deviation measures the variability or volatility of the price over a set window
+Bitcoin Halving,"Every 210,000 blocks, or roughly every four years, miners' rewards are cut in half."
+ETF, Exchange-traded fund (ETF) is a basket of securities that trades on an exchange just like a stock does.
+Bull run,"A bull market, or bull run, is defined as a period of time where the majority of investors are buying, demand outweighs supply, market confidence is at a high, and prices are rising."
+Bear Market, a bear market is one in which the value of cryptocurrencies has fallen by at least 20% and is continuing to fall
